@@ -65,7 +65,7 @@ const Main = () => {
                   <hr />
                 </div>
               ) : (
-                <p dangerouslySetInnerHTML={{ __html: resultData }} />
+                <p dangerouslySetInnerHTML={{ __html: resultData }}></p>
               )}
             </div>
           </div>
@@ -83,7 +83,11 @@ const Main = () => {
               <img src={assets.gallery_icon} alt="Gallery Icon" />
               <img src={assets.mic_icon} alt="Mic Icon" />
               {input && (
-                <img onClick={onSent} src={assets.send_icon} alt="Send Icon" />
+                <img
+                  onClick={() => onSent()}
+                  src={assets.send_icon}
+                  alt="Send Icon"
+                />
               )}
             </div>
           </div>
