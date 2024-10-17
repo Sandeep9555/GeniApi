@@ -43,4 +43,4 @@ Before setting up the project, ensure you have the following installed on your s
    cd GeniApi
 ## Project Scrrnshot
 1.**Home Page Section**
-  ![Home Page](.src/assets/Home.png)
+  ![Home Page](GeniApi\src\assets\Hom.png)
