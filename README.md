@@ -41,3 +41,6 @@ Before setting up the project, ensure you have the following installed on your s
    ```bash
    git clone https://github.com/your-username/GeniApi.git
    cd GeniApi
+## Project Scrrnshot
+1.**Home Page Section**
+  ![Home Page](.src/assets/Home.png)
