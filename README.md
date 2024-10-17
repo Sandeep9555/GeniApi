@@ -44,3 +44,9 @@ Before setting up the project, ensure you have the following installed on your s
 ## Project Scrrnshot
 1.**Home Page Section**
   ![Home Page](src/assets/Home.png)
+
+2.**Output Page Section**
+  ![OutPut Page](src/assets/Result.png)
+
+3.**Respnsive menu and question bar section**
+  ![Home Page](src/assets/Responsive_menuSection.png)
