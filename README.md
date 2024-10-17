@@ -49,4 +49,4 @@ Before setting up the project, ensure you have the following installed on your s
   ![OutPut Page](src/assets/Result.png)
 
 3.**Respnsive menu and question bar section**
-  ![Home Page](src/assets/Responsive_menuSection.png)
+  ![Home Page](src/assets/Responsive_MenuSection.png)
