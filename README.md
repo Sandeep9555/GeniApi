@@ -2,6 +2,8 @@
 
 **GeniApi** is an AI-powered application designed to facilitate interactive question-and-answer interactions. Built using **React**, the platform allows users to input prompts, choose from predefined suggestions, and receive dynamic responses. The application simulates an AI chat interface with real-time updates and intuitive features that enhance user engagement.
 
+**Deployment of Project**
+[GeniAPI](https://geni-api.vercel.app/)
 ## Table of Contents
 - [Overview](#overview)
 - [Purpose](#purpose)
